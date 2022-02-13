@@ -1,0 +1,15 @@
+D:\proojects\CityApplicationAPI\CityDAL\bin\Debug\net5.0\CityDAL.deps.json
+D:\proojects\CityApplicationAPI\CityDAL\bin\Debug\net5.0\CityDAL.runtimeconfig.json
+D:\proojects\CityApplicationAPI\CityDAL\bin\Debug\net5.0\CityDAL.runtimeconfig.dev.json
+D:\proojects\CityApplicationAPI\CityDAL\bin\Debug\net5.0\CityDAL.dll
+D:\proojects\CityApplicationAPI\CityDAL\bin\Debug\net5.0\ref\CityDAL.dll
+D:\proojects\CityApplicationAPI\CityDAL\bin\Debug\net5.0\CityDAL.pdb
+D:\proojects\CityApplicationAPI\CityDAL\obj\Debug\net5.0\CityDAL.csproj.AssemblyReference.cache
+D:\proojects\CityApplicationAPI\CityDAL\obj\Debug\net5.0\CityDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\proojects\CityApplicationAPI\CityDAL\obj\Debug\net5.0\CityDAL.AssemblyInfoInputs.cache
+D:\proojects\CityApplicationAPI\CityDAL\obj\Debug\net5.0\CityDAL.AssemblyInfo.cs
+D:\proojects\CityApplicationAPI\CityDAL\obj\Debug\net5.0\CityDAL.csproj.CoreCompileInputs.cache
+D:\proojects\CityApplicationAPI\CityDAL\obj\Debug\net5.0\CityDAL.dll
+D:\proojects\CityApplicationAPI\CityDAL\obj\Debug\net5.0\ref\CityDAL.dll
+D:\proojects\CityApplicationAPI\CityDAL\obj\Debug\net5.0\CityDAL.pdb
+D:\proojects\CityApplicationAPI\CityDAL\obj\Debug\net5.0\CityDAL.genruntimeconfig.cache
